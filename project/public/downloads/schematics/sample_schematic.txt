@@ -1,0 +1,8 @@
+# Sample Schematic File
+
+This is a placeholder file. Replace this with your actual schematic files.
+
+Supported formats:
+- .pdf (PDF documents)
+
+File naming example: hp_pavilion_15_cs3000_schematic.pdf

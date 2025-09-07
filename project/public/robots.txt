@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.laptopws.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Allow all search engines to access important pages
+Allow: /downloads
+Allow: /about
+Allow: /contact
+
+# Block access to unnecessary files
+Disallow: /src/
+Disallow: /*.tsx$
+Disallow: /*.ts$
+Disallow: /node_modules/

@@ -1,0 +1,10 @@
+# Sample BIOS File
+
+This is a placeholder file. Replace this with your actual BIOS files.
+
+Supported formats:
+- .bin (Binary BIOS files)
+- .rom (ROM files)
+- .cap (Capsule files)
+
+File naming example: dell_xps_13_9310_bios.bin
